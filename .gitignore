@@ -1,1 +1,7 @@
+.idea/
 .idea/workspace.xml
+tasks.json
+tasks.json.tmp
+__pycache__/
+*.pyc
+.venv/

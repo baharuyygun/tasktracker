@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Start Learning 3D Modelling",
+    "status": "todo",
+    "createdAT": "2026-11-09T02:29:27",
+    "updatedAT": "2026-11-09T02:38:07"
+  },
+  {
+    "id": 2,
+    "description": "Create Personal Website",
+    "status": "todo",
+    "createdAT": "2026-11-09T02:36:01",
+    "updatedAT": "2026-11-09T02:36:01"
+  },
+  {
+    "id": 3,
+    "description": "Finish 'Task_Tracker'",
+    "status": "in-progress",
+    "createdAT": "2026-11-09T02:36:35",
+    "updatedAT": "2026-11-09T02:36:51"
+  }
+]
